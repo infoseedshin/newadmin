@@ -9,7 +9,7 @@
                 flat
         >
             <v-toolbar-title class="mx-auto" slot="extension">
-                <span>Welcome to Vuebase</span>
+                <span>Welcome to Vuebase!</span>
                 <h2>Everything starts here.</h2>
                 <v-layout row>
                     <v-flex wrap>
