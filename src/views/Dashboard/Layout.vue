@@ -6,9 +6,13 @@
                 color="green"
                 dark
         >
+<<<<<<< HEAD
 
             <v-toolbar-title class="pl-2">■ 등록 키워드 관리!!</v-toolbar-title>
 
+=======
+            <v-toolbar-title class="pl-2">■ 등록 키워드 관리!!!</v-toolbar-title>
+>>>>>>> df9c699d0280890e18a7daa21d63927541b1cabc
             <v-spacer></v-spacer>
             <!--<v-tabs
                     v-model="tabs"
