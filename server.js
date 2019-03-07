@@ -31,6 +31,11 @@ app.get('/select', (req, res, next) => {
    })
 });
 
+<<<<<<< HEAD
 app.listen(4000, function () {
     console.log('Server is running.. on Port 4000');
+=======
+app.listen(8081, function () {
+    console.log('Server is running.. on Port 8081');
+>>>>>>> bdcaa7b207d841b3333d67525202dcc968338372
 });
