@@ -7,7 +7,7 @@
                 dark
         >
 
-            <v-toolbar-title class="pl-2">■ 등록 키워드 관리</v-toolbar-title>
+            <v-toolbar-title class="pl-2">■ 등록 키워드 관리!!</v-toolbar-title>
 
             <v-spacer></v-spacer>
             <!--<v-tabs
